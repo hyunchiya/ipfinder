@@ -1,3 +1,4 @@
+// internal/scanner/writer.go
 package scanner
 
 import (
