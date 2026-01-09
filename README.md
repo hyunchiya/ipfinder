@@ -1,8 +1,8 @@
-# IP Finder
+# reverse ip
 
-![ipfinder](static/ipfinder-run.png)
+![reverseip](static/ipfinder-run.png)
 
-IP Finder is a reverse IP lookup tool that identifies domains hosted on the same IP address. It leverages multiple
+Reverse IP is a reverse IP lookup tool that identifies domains hosted on the same IP address. It leverages multiple
 passive online data sources to provide accurate and comprehensive results. Built with performance and modularity in
 mind, this tool is designed for security researchers, penetration testers, and bug bounty hunters.
 
